@@ -1,0 +1,54 @@
+python index c++ java web
+
+in index page below the programmer image :
+Some Common and Basic Projects :
+
+1.Digital Calculator --
+2.Rock Paper scissor Game --
+3.Number guessing game -- 
+4.Song playing project --
+
+
+python project:
+
+
+3.digital calculator --
+4.library management system --
+5.atm machine --
+6.file handling AI --
+7.rock paper sciossor game --
+8.number guessing game ---
+9.car racing game using pygame--
+10.voting machine --
+15.make a online food delivery website uding py-script --
+
+java project:
+
+1.digital calculator--
+3.library managemant system--
+4.atm machine--
+6.rock paper scissor game--
+7.hand cricket game --
+8.number guessing game --
+13.voting machine--
+14.currency  converter project--
+15.make a online hotel booking website using JAVA APPLET --
+
+c project:
+
+
+
+4.online bus tivket booking system --
+5.canteen management system --
+11.tic tac toe game --
+12.movie ticket booking system --
+
+web project:
+
+1.online food delivery --
+3.e commerce website --
+4.song palying website --
+9.Local Gym --
+12.digital atm --
+13.courier website --
+15.educational website
